@@ -1,6 +1,6 @@
 # David Chu's China Bistro
 
-### The site is published at [David Chu's China Bistro]
+### The site is published at [David Chu's China Bistro](http://www.davidchuschinabistro.com/)
 
 ## Description
 This was the final project I did as a part of a Coursera course - [HTML,CSS and JavaScript For Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome). This is fairly a basic multi-page responsive website of a fictitious restaurant, which can be used as a template for building restaurant portfolio websites. 
